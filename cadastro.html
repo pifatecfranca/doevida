@@ -1,0 +1,154 @@
+<!DOCTYPE html>
+<html lang="pt">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Doe Vida</title>
+
+    <!--estilos da página-->
+    <link rel="stylesheet" href="assets/estilos.css">
+
+    <!-- favicon -->
+    <link rel="stylesheet" href="assets/images/logo_empresa.png" type="img/png">
+
+    <style>
+        .form-container {
+            width: 60%;
+            margin: auto;
+
+        }
+
+        .form-group {
+            margin-bottom: 10px;
+
+        }
+
+        label {
+            display: block;
+            text-align: justify;
+        }
+
+        h3 {
+            text-align: center;
+        }
+    </style>
+
+</head>
+
+<body>
+
+
+    <!--cabeçalho-->
+    <header class="container-cabecalho">
+        <a href="index.html">
+            <img src="assets/images/Logo_Pi.png" width="130px" alt="logo_empresa" title="Doe Vida">
+            <img src="assets/images/Logo_Pi.png" width="130px" alt="logo_empresa" title="Doe Vida">
+            <img src="assets/images/Logo_Pi.png" width="130px" alt="logo_empresa" title="Doe Vida">
+            <img src="assets/images/Logo_Pi.png" width="130px" alt="logo_empresa" title="Doe Vida">
+            <img src="assets/images/Logo_Pi.png" width="130px" alt="logo_empresa" title="Doe Vida">
+            
+        </a>
+        <h2>"Seja a batida que mantém o ritmo da vida: doe sangue e faça a diferença hoje."</h2>
+        <h3>DOE VIDA</h3>
+    </header>
+
+    <!--navegacao-->
+    <nav class="container-navegacao">
+        <a href="index.html">Quem somos</a>
+        <a href="servicos.html">Quem pode doar?</a>
+        <a href="contatos.html">Contatos</a>
+        <a href="mitos.html">Mitos e Lendas</a>
+        <a href="cadastro.html">Cadastro</a>
+
+    </nav>
+
+    <!--servicos-->
+    <section class="container-servicos">
+
+        <h1 class="text-servicos"></h1>
+
+        <article>
+            <h3>Faça seu Pré Cadastro</h3>
+            <div class="form-container">
+
+                <form action="https://sys4soft.com/udemy/forms/index.php" method="post">
+
+                    <div class="form-group">
+                        <label>Nome:</label>
+                        <input type="nome" name="campo_nome" required minlength="3" maxlength="30" placeholder="Nome">
+                    </div>
+
+                    <div class="form-group">
+                        <label>E-mail:</label>
+                        <input type="email" name="campo_email" placeholder="E-mail">
+                    </div>
+
+                    <div class="form-group">
+                        <label>Telefone:</label>
+                        <input type="tel" name="campo_number" required minlength="8" maxlength="11" placeholder="Numero">
+                    </div>
+
+                    <div class="form-group">
+                        <label>Data de Nascimento:</label>
+                        <input type="date" name="campo_date" id="">
+                    </div>
+
+
+                    <div class="form-group">
+                        <label>
+                            <input type="radio" name="genero" id="" value="Masculino">
+                            Masculino
+                        </label>
+
+
+                        <div class="form-group">
+                            <label>
+                                <input type="radio" name="genero" id="" value="Feminino">
+                                Feminino
+                            </label>
+
+                        </div>
+
+                        <div class="form-group">
+                            <input type="submit" value="Enviar">
+                        </div>
+
+
+                </form>
+            </div>
+        </article>
+
+        <article>
+            <h3>Parabéns!!! Você deu o primeiro passo para salvar até 3 vidas, 
+                faremos seu pré cadastro, dessa forma seu atendimento será mais ágil. Obrigado!</h3>
+            
+        </article>
+
+    </section>
+
+
+
+    <!--ver servicos ou contatos-->
+    <section class="container-servicos-contatos">
+        <h1>Contacte-nos</h1>
+        <div class="botoes-servicos-contatos">
+            <a href="contatos.html">Ver contatos</a>
+            <a href="servicos.html">Quem pode doar?</a>
+            <a href="index.html">Quem Somos</a>
+            <a href="mitos.html">Mitos e Lendas</a>
+            <a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vQOAjdsqcyzKT16PBOjSGiZsws6AXUTyDTLhKYfmcnDulgWleyIV-1cVveKLCnOM7uuPzGHFc4GMZx_/pubchart?oid=1760292377&format=image"
+                target="_blank">Estoque de Sangue</a>
+        </div>
+    </section>
+
+
+    <footer>
+        Doe Vida &copy; 2023 | &reg; Todos os direitos reservados.
+    </footer>
+
+
+</body>
+
+</html>

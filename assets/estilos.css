@@ -1,0 +1,215 @@
+/* estilos da minha pagina web */
+
+*{
+    margin:0;
+    padding: 0;
+}
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
+
+/* ----------------------------- */
+/* geral */
+.text-center{
+    text-align: center;
+}
+
+.margin-top-40 {
+    margin-top: 40px;
+}
+
+/* ------------------------------ */
+.container-cabecalho {
+    text-align: center;
+    padding: 20px;
+    background-color: #ed4747;
+}
+
+.container-cabecalho img{
+    padding: 50px;
+
+}
+
+.container-cabecalho a{
+    text-decoration: none;
+}
+
+.container-cabecalho h3{
+    font-weight: 600;
+    font-size: 2em;
+    color: rgb(249, 245, 6);
+    letter-spacing: 20px;
+    padding: 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-shadow: 4px 6px 8px;
+
+}
+
+.container-cabecalho h2{
+    font-weight:100px ;
+    font-size: 2em;
+    font-family: cursive
+}
+
+/* ------------------------------ */
+.container-navegacao{
+    text-align: center;
+    padding: 20px;
+    background-color: #dc0404;
+}
+
+.container-navegacao a{
+    font-size: 1.3em;
+    margin: 0px 50px;
+    text-decoration: none;
+    color:#d8d8d8 ;
+}
+
+.container-navegacao a:hover{
+    color: #ffffff;
+}
+
+/* ------------------------------ */
+.container-quem-somos{
+    background-color: #dc0404;
+    overflow: auto;
+}
+
+.container-quem-somos .servico{
+    float: center;
+    margin: 60px auto;
+    background-color: #eb7676;
+    width: 50%;
+    padding: 50px;
+    border-radius: 10px;
+    text-align: center;
+}
+
+.container-quem-somos .servico .icone{
+    margin-bottom: 10px;    
+}
+
+.container-quem-somos .servico-texto{
+    font-family: 'Courier New', Courier, monospace;
+    margin-top: 20px;
+    font-size: 1.2em;
+    color: #ffffff;
+}
+
+.container-quem-somos .servico-texto-realce{
+    color: white;
+    font-weight: bold;
+}
+
+/* ------------------------------ */
+.container-servicos-contatos{
+    background-color:#ef3f3f;
+    padding: 80px; 
+    text-align: center;
+}
+
+.container-servicos-contatos .botoes-servicos-contatos{
+    padding: 60px;
+    text-align: center;
+}
+
+.botoes-servicos-contatos a{
+    display: block;
+    max-width: 500px;
+    text-decoration: none;
+    font-size: 1.2em;
+    background-color: #eb7676;
+    color: white;
+    padding: 20px 60px;
+    margin: 10px auto;
+    border-radius: 10px;
+}
+
+.botoes-servicos-contatos a:hover{
+    background-color: white;
+    color: black;
+}
+
+/* ------------------------------ */
+.container-servicos{
+    background-color: #8a1414;
+    font-size: 1.1em;
+    padding: 60px;
+    overflow: auto; 
+}
+
+.container-servicos h1 {
+    font-size: 3em;
+    color: white;
+    margin-bottom: 20px;
+}
+
+.container-servicos h3 {
+    color: #f2ff04;
+    padding: 20px 0;
+}
+
+.container-servicos article {
+    width: 40%;
+    margin: auto;
+    float: center;
+}
+
+.container-servicos li {
+    margin-bottom: 20px;
+    margin-left: 50px;
+    color: white;
+}
+
+/* ------------------------------ */
+.container-contatos {
+    background-color: #ef3f3f;
+    padding: 80px;
+}
+
+.container-contatos h1 {
+    font-size: 3em;
+    color: white;
+    margin-bottom: 20px;
+}
+
+.container-contatos h3{
+    font-size: 1.5em;
+    font-weight: 100;
+    width: 40%;
+    margin: auto;
+    color: white;
+    margin-bottom: 20px;
+    border: 1px solid #8a1414;
+    background-color: #dc0404;
+    border-radius: 10px;
+    padding: 20px;
+
+}
+
+.container-contatos .contatos {
+    display: block;
+    font-size: 2em;
+    text-decoration: none;
+    color: #f2ff04;
+    margin-bottom: 20px;
+}
+.form-group{
+    text-align: justify;
+}
+
+
+/* ------------------------------ */
+footer{
+    text-align: center;
+    padding: 80px;
+    background-color: #dc0404;
+    color: white;
+}
+
+
+
+
+
