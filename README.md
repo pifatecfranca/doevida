@@ -30,6 +30,9 @@ realizar um pré cadastro para que o Hemocentro da cidade mais próxima entre em
 ![5 -Faça seu cadastro](https://github.com/pifatecfranca/doevida/assets/151988227/66bea81e-948c-4913-8bda-1b9b1557e309)
 ![6 -Estoque tempo real](https://github.com/pifatecfranca/doevida/assets/151988227/c409ec0e-3583-4f20-bad0-a9c8c5d8f6a0)
 
+
+## Requisítos técnicos para rodar a aplicação:
+
 O usuário precisa apenas possuir um dispositivo com acesso à internet.
 
 
@@ -51,11 +54,10 @@ Para a construição deste site foi usada a IDE VSCODE sob influência de HTML e
 
 ## 📄 Códigos CSS 
 
+![css-1](https://github.com/pifatecfranca/doevida/assets/151988227/a67696b0-d7b7-444a-8bf7-3d56a9748eca)
+![css-2](https://github.com/pifatecfranca/doevida/assets/151988227/579d64ce-3533-4fdd-9903-e341c6f6f6bd)
+![css-3](https://github.com/pifatecfranca/doevida/assets/151988227/127de636-365b-4484-b317-0e108c748106)
 
-
-
-
-Este projeto está sob a licença (sua licença) - veja o arquivo [LICENSE.md](https://github.com/Wilton-Monteiro/site/blob/main/LICENSE) para detalhes.
 
 ## 🎁 Expressões de gratidão
 
@@ -64,5 +66,12 @@ por proporcionar ensino de qualidade, buscando o desenvolvimento da educação.
 
 
 ---
-⌨️ Wilton Monteiro 😊
+## Idealizadores do Projeto:
+
+⌨️ Wilton Monteiro Resende 😊
+⌨️ Gustavo Moreira Santos 😊
+⌨️ Márcio Guilherme Da Silva 😊
+⌨️ Thiago Dias Resende 😊
+⌨️ Pedro Henrique Fernandes Covre 😊
+
 # doevida
