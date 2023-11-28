@@ -42,11 +42,16 @@ Para a construição deste site foi usada a IDE VSCODE sob influência de HTML e
 Última versão data: 25/11/2023
 
 
-##                 Códigos HTML
+##                 Códigos HTML - Página "Quem somos"
+
+![html-1](https://github.com/pifatecfranca/doevida/assets/151988227/edd49de5-c697-4bda-9142-006940ed0daf)
+![hmtl-2](https://github.com/pifatecfranca/doevida/assets/151988227/542ef2da-ec05-4568-b59c-66af60997e59)
+![html-3](https://github.com/pifatecfranca/doevida/assets/151988227/ac264b06-c54e-4ebb-8257-49a51247560b)
 
 
+## 📄 Códigos CSS 
 
-## 📄 Licença
+
 
 
 
